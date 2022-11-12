@@ -2,7 +2,7 @@
 
 [![contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](5561993355818)
 [![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](porko.thales@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/professthalesrosario/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-rosario-744aa7256/)
 
 ![Thales's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalesbsb&show_icons=true&theme=dark)
 
